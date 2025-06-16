@@ -1,6 +1,6 @@
 👀 I’m interested in learning and developing skills in full stack web development and Python.
 
-🌱 I’m currently learning HTML, CSS, JavaScript, PHP, and Python.
+🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript, PHP, and Python.
 
 💞️ I’m looking to collaborate with anyone interested.
 
