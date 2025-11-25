@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Header Animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Rodrigo%20Gato&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Sr.%20Gato&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Product+Owner+%7C+CRM+Analyst;Python+Developer+%7C+Automation;Salesforce+%7C+Power+BI+Specialist;Building+Solutions+That+Scale" alt="Typing SVG" /></a>
@@ -15,10 +15,10 @@
 
 <!-- Social Links com Hover -->
 <p>
-  <a href="https://rsolutionsbr.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-rsolutionsbr.com.br-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010"/>
+  <a href="https://rsolutionsbr.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-rsolutionsbr.com-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010"/>
   </a>
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+  <a href=https://www.linkedin.com/in/rodrigo-azevedo88/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010"/>
   </a>
   <a href="mailto:srgatocoursesonline@gmail.com">
@@ -36,8 +36,9 @@
 ## 🚀 Sobre Mim
 
 ```python
-class RodrigoGato:
+class SrGato:
     def __init__(self):
+        self.name = "Sr. Gato"
         self.role = "Product Owner & CRM Analyst"
         self.company = "SPC Brasil"
         self.experience = "4+ years"
@@ -53,7 +54,7 @@ class RodrigoGato:
         self.tech_stack = {
             "languages": ["Python", "JavaScript", "TypeScript", "SQL", "DAX"],
             "frameworks": ["React", "Next.js", "Firebase", "FastAPI"],
-            "crm": ["Salesforce Service Cloud", "Marketing Cloud", "Marketing Cloud Account Engagement"],
+            "crm": ["Salesforce Service Cloud", "Marketing Cloud"],
             "bi_tools": ["Power BI", "Power Query", "Excel"],
             "automation": ["Python Scripts", "Selenium", "Telegram Bots"],
             "databases": ["Firebase", "PostgreSQL", "SQLite"],
@@ -61,9 +62,9 @@ class RodrigoGato:
         }
     
     def say_hi(self):
-        print("Transforming business challenges into elegant technical solutions!")
+        print("Transforming business challenges into elegant solutions!")
 
-me = RodrigoGato()
+me = SrGato()
 me.say_hi()
 ```
 
@@ -141,15 +142,11 @@ me.say_hi()
 
 <div align="center">
   
-<!-- GitHub Stats Cards -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srgatocoursesonline&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srgatocoursesonline&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-<!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=srgatocoursesonline&theme=tokyonight&hide_border=true&background=0d1117"/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srgatocoursesonline&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
 
 </div>
 
@@ -159,42 +156,30 @@ me.say_hi()
 
 ## 🏆 Projetos em Destaque
 
-<div align="center">
-
-<!-- Projeto 1 -->
-<a href="https://github.com/srgatocoursesonline/fluxtasks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srgatocoursesonline&repo=fluxtasks&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-<!-- Projeto 2 -->
-<a href="https://github.com/srgatocoursesonline/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srgatocoursesonline&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-</div>
-
-<br>
-
 <table align="center">
 <tr>
 <td width="50%">
 
 ### 🔥 FluxTasks
-Sistema completo de gerenciamento de tarefas com Firebase e React
+**Sistema completo de gerenciamento de tarefas**
+
 - 📱 PWA com suporte offline
 - 🎯 Tags e categorias personalizáveis
 - 📊 Dashboards e analytics
 - 🔄 Sincronização em tempo real
+- **Stack:** React, Firebase, TypeScript
 
 </td>
 <td width="50%">
 
 ### 💼 Portfolio Professional
-Site profissional com Next.js e Tailwind
+**Site profissional com Next.js**
+
 - ⚡ Performance otimizada
 - 🎨 Design responsivo e moderno
 - 📈 SEO otimizado
 - 🚀 Deploy automático na Vercel
+- **Stack:** Next.js, Tailwind CSS
 
 </td>
 </tr>
@@ -208,10 +193,8 @@ Site profissional com Next.js e Tailwind
 
 <div align="center">
 
-<!-- 3D Contribution Graph -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srgatocoursesonline&theme=tokyonight"/>
 
-<!-- Trophy -->
 <img src="https://github-profile-trophy.vercel.app/?username=srgatocoursesonline&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
 
 </div>
@@ -222,7 +205,7 @@ Site profissional com Next.js e Tailwind
 
 ## 💡 Áreas de Interesse
 
-```typescript
+```javascript
 const interests = {
   automation: {
     current: ["Python scripts", "Telegram bots", "Web scraping"],
@@ -287,14 +270,11 @@ const interests = {
 <br><br>
 
 ### ⚡ Fun Facts
-```python
-fun_facts = [
-    "🎮 Video game enthusiast",
-    "🎸 Guitar player in free time",
-    "🎤 Karaoke champion (in my dreams)",
-    "☕ Coffee-driven developer"
-]
-```
+
+**🎮** Video game enthusiast  
+**🎸** Guitar player in free time  
+**🎤** Karaoke champion (in my dreams)  
+**☕** Coffee-driven developer
 
 <br>
 
